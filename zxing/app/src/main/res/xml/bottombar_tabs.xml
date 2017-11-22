@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/main"
+            icon="@drawable/phone"
+            title="camera" />
+        <tab
+            id="@+id/testb"
+            icon="@drawable/file"
+            title="camera"
+            />
+        <tab
+            id="@+id/testc"
+            icon="@drawable/file"
+            title="camera"
+            />
+    </tabs>
+</PreferenceScreen>
